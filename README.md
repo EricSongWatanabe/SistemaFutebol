@@ -23,8 +23,10 @@ Execute o script com as queries de teste para validar o sistema.
 
 ## MER
 
+![image (2)](https://github.com/user-attachments/assets/3611ce00-cc7a-4e84-a449-d691fe6febde)
 
 
 ## MR
 
+![image (3)](https://github.com/user-attachments/assets/d3a79284-d440-4b80-a423-bf1e091da9ff)
 
